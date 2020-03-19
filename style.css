@@ -26,6 +26,7 @@ html {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  width: fit-content;
 }
 
 .seethrough {
@@ -66,14 +67,6 @@ video {
   text-align: center;
 }
 
-.content {
-  text-align: center;
-  position: relative;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
 p {
   text-align: center;
   font-family: 'Open Sans', sans-serif;
@@ -96,5 +89,5 @@ p {
 }
 
 .darker {
-  background-color: rgba(0, 0, 0, 0.75)
+  background-color: rgba(0, 0, 0, 0.75);
 }
