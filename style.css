@@ -91,3 +91,9 @@ p {
 .darker {
   background-color: rgba(0, 0, 0, 0.75);
 }
+
+i {
+  margin: 10px;
+  font-size: 32px;
+  color: white;
+}
